@@ -41,6 +41,7 @@
           <h2>👋 Stay in Touch</h2>
           <p>
             <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/ivanskyi" target="_blank">linkedin.com/in/ivanskyi</a><br>
+            <strong>Leetcode:</strong> <a href="https://leetcode.com/u/ivanskyi/" target="_blank">https://leetcode.com/u/ivanskyi/</a><br>
             <strong>Email:</strong> <a href="mailto:olehivanskyi@gmail.com">olehivanskyi@gmail.com</a><br>
             <strong>Website:</strong> <a href="https://ivanskyi.com" target="_blank">ivanskyi.com</a>
           </p>
